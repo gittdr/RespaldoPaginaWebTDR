@@ -374,6 +374,11 @@ img.example-image {
   background-size: 100%;
   background-image: url('imagenes/full-width-image/reclutamiento/full-width-image-reclutamiento-gde.png'); 
 }
+.reclutamiento2{
+  background-size: 100%;
+  background-image: url('imagenes/full-width-image/reclutamiento/COTIZACIONES.jpg'); 
+}
+
 
 .texto-reclutamiento {
   padding: 10rem 2rem;
